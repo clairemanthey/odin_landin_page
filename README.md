@@ -21,7 +21,7 @@ I began The Odin Project’s Foundations Course to review my knowledge of HTML a
 - HTML
 - CSS
 
-##Screenshot
+## Screenshot
 <img src="landing_page_one.png" alt="top half of the landing page">
 <img src="landing_page_two.png" alt="bottom half of the landing page">
 
