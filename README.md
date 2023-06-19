@@ -1,7 +1,32 @@
+#  Landing Page
+Basic landing page for website
+## Table of Contents
+[Introduction](#Introduction)
 
-<h1>Odin Landing Page</h1>
+[Motivation](#Motivation)
 
-<p><a href="https://www.theodinproject.com/lessons/foundations-landing-page">Project: Landing Page</a> from <a href="https://www.theodinproject.com/">The Odin Project Foundations Course</a>. The project was to create a web page from the provided designs. I used CSS custom properties and utility classes to efficiently apply styles to a single HTML file.</p>
+[Built With](#built-with)
+
+[License](#License)
+
+[Acknowledgements](#Acknowledgements)
+
+## Introduction
+This project was part of the [Foundations Course](https://www.theodinproject.com/lessons/foundations-landing-page) from [The Odin Project](https://www.theodinproject.com/). The project was to design an entire webpage from scratch, getting it as close to the design and details files. I began with the HTML and then added the CSS to create the layout and apply the styles to match the design file. I also used CSS custom properties and utility classes to efficiently apply styles to a single HTML file.
+
+## Motivation
+I began The Odin Project’s Foundations Course to review my knowledge of HTML and CSS skills. This project brought together both those skills and allowed me to use them to transform a blank webpage into a landing page.
+
+## Built With
+- HTML
+- CSS
+
+##Screenshot
 <img src="landing_page_one.png" alt="top half of the landing page">
 <img src="landing_page_two.png" alt="bottom half of the landing page">
-<p>I began by putting all the markup in the HTML and then adding styles. Colors, background color, font size, and font weight were all provided by the design files. I began with the navigation bar and worked my way down the page. Adding the designs to the hero as well as the more information section and inspiring quote. Then ending with a call to action and footer with copyright information. Finishing up by comparing the webpage to the design files, making any little tweaks to get as close as possible to the provided files.</p>
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Acknowledgements
+[The Odin Project](https://www.theodinproject.com/) for putting together the curriculum for the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations)
